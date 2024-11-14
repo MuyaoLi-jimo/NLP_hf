@@ -1,0 +1,6 @@
+few_shots/
+logs/
+models/
+model/
+checkpoints/
+wandb/
